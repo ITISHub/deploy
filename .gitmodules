@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ITISHub/itishub-backend.git
+	branch = master
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ITISHub/frontend.git
+	branch = master
